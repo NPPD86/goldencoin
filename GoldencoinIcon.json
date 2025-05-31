@@ -1,0 +1,17 @@
+{
+  "name": "Goldencoin",
+  "symbol": "GOLD",
+  "description": "Goldencoin token on Solana blockchain",
+  "seller_fee_basis_points": 0,
+  "image": "https://raw.githubusercontent.com/NPPD86/goldencoin/main/GoldencoinIcon.png",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/NPPD86/goldencoin/main/GoldencoinIcon.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}
